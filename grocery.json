@@ -1,0 +1,84 @@
+{
+    "grocery":[
+        {
+            "Sl_No":"1",
+            "Item":"Milk",
+            "Quantity":"1",
+            "Unit":"pkt",
+            "Department":"Diary",
+            "notes":"Fresh"
+        },
+        {
+            "Sl_No":"2",
+            "Item":"Egg",
+            "Quantity":"1",
+            "Unit":"dz",
+            "Department":"Eggs",
+            "notes":"Chicken"
+        },
+        {
+            "Sl_No":"3",
+            "Item":"Onion",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "Sl_No":"4",
+            "Item":"Tomato",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "Sl_No":"5",
+            "Item":"Maggi Noodles",
+            "Quantity":"2",
+            "Unit":"pkt",
+            "Department":"Packaged Foods",
+            "notes":"Chicken"
+        },
+        {
+            "Sl_No":"6",
+            "Item":"Bourn Vita",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Health Drinks",
+            "notes":"Chocolate"
+        },
+        {
+            "Sl_No":"7",
+            "Item":"Royal Canin",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Pets Care",
+            "notes":"Dog Food"
+        },
+        {
+            "Sl_No":"8",
+            "Item":"Carrot",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "Sl_No":"9",
+            "Item":"Rice",
+            "Quantity":"4",
+            "Unit":"kg",
+            "Department":"Rice",
+            "notes":"Basmati Rice"
+        },
+        {
+            "Sl_No":"10",
+            "Item":"Sanitizer",
+            "Quantity":"200",
+            "Unit":"ml",
+            "Department":"Pantry",
+            "notes":"Health Care"
+        }
+    ]
+}
